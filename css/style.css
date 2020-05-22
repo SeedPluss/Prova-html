@@ -1,0 +1,66 @@
+/*Definindo cor do body*/
+.backgroundclr {
+  background-color: lightgray;
+}
+/*Aconteceu um bug no carousel e tive que criar essa classe para desbugar ele*/
+.bugcarousel{
+  max-width: 100%;
+}
+/*Propriedades da tabela*/
+.clrtable {
+  background-color: white;
+  border-radius: 10px;
+}
+/*Ajuste de texto do CRM*/
+.txtcrm{
+    white-space: nowrap;
+    text-size-adjust: 10px;
+}
+/*Propriedades do Formulario*/
+.styleform {
+  border: solid 1px #ffffff;
+  border-radius: 10px;
+  background-color: white;
+}
+/*tamanho dos icons*/
+.tmnicons {
+  max-height: 100px;
+  max-width: 100px;
+}
+/*Cor do texto do carrosel*/
+.clrcrssl {
+  color: black;
+}
+/*Setar Width e Height das imagens do carrousel*/
+.formimg {
+  max-width: 1400px;
+  max-height: 650px;
+  object-fit: cover;
+}
+/*Reajuste dos cards da pagina do convenio*/
+.card-body2 {
+  max-height: 200px;
+}
+/*Reajuste das imagens dos cards*/
+.card-img{
+    padding: 10px;
+}
+
+/*Propriedades da Div embaixo da nav bar*/
+.clrtrabalhe {
+  background-color: #595d65;
+  text-align: center;
+  height: 430px;
+}
+/*Propriedades do titulo da div embaixo da nav bar*/
+.clrtitulo {
+  padding-top: 120px;
+  color: white;
+}
+/*Propriedades do paragrafo da div embaixo da nav bar*/
+.clrparagrafo {
+  padding-top: 30px;
+  color: white;
+  text-align: center;
+  height: 200px;
+}
